@@ -1,0 +1,45 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 35px;
+}
+.para1{
+    padding-top: 20px;
+}
+.para1 h3{
+    padding: 5px;
+
+}
+.para1 p{
+    padding: 17px;
+    line-height: 30px;
+
+}
+.list{
+    margin: 30px;
+}
+.list ul{
+    margin-bottom: 10px;
+    line-height: 30px;
+}
+button{
+  padding-top: 30px;           
+ border-top-color:  #E55D87;
+ border-bottom-color: #5FC3E4;
+ border-left-color: #E55D87;
+border-width: 3px;
+ margin: 10px;
+ padding: 15px 45px;
+ text-align: center;
+ text-transform: uppercase;
+ transition: 0.5s;
+ background-size: 200% auto;
+ color: rgb(8, 8, 8);            
+ box-shadow: 0 0 20px #eee;
+ border-radius: 10px;
+ display: block;
+      
+}
+
+
+         

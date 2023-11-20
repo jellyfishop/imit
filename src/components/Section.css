@@ -1,0 +1,36 @@
+.btn2 {
+
+    background-image: linear-gradient(to right, #E55D87 0%, #5FC3E4 51%, #E55D87 100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    display: block;
+    border: none;
+    margin-top: 30px;
+
+}
+.hom1{
+    margin-left: 90px;
+    padding-top: 50px;
+
+}
+.main1{
+
+    display: flex;
+    gap: 150px;
+    
+
+}
+.hom2{
+    height: 500px;
+    width: 650px;
+    
+}
+ h1{
+    line-height: 100px;
+ }

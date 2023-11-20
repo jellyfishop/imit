@@ -1,0 +1,20 @@
+
+.foot{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.first{
+
+word-spacing: 3px; 
+letter-spacing: 2px;
+line-height: 28px;
+}
+.second{
+word-spacing: 3px; 
+letter-spacing: 2px;
+line-height: 28px;
+}
